@@ -3,7 +3,7 @@ info:
   version: "1.0.1"
   title: portal para los amantes de los gatos
 # during dev, should point to your local machine
-host: my-gatos-api.appspot.com
+host: artful-athlete-242814.appspot.com
 # basePath prefixes all resource paths 
 basePath: /
 # 
